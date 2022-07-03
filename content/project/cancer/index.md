@@ -3,10 +3,10 @@ author:
 categories:
 date: "2022-07-01"
 draft: false
-excerpt: Health disparities in cancer epidemiology
+excerpt: Health disparities in cancer epidemiology research
 layout: single
 links:
-subtitle: Health disparities in cancer epidemiology
+subtitle: Health disparities in cancer epidemiology research
 tags:
 title: Cancer
 ---
