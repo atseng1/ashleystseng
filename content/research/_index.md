@@ -7,8 +7,8 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
-    text_link_url: /research/
-description: I come from a diverse research background with experiences in I have pursued research in chemistry, biochemistry, scientific communication, biosecurity, agricultural nutrient cycling, disaster preparedness, cancer epidemiology, and infectious disease epidemiology. My research interests lie at the intersection of infectious disease epidemiology, epidemic preparedness, and community health. I am interested in utilizing data science, bioinformatics, spatial analyses, and advanced epidemiological methods to translate data into something useful for and actionable to public health. While at UW, my research has involved learning the whole genome sequencing pipeline to perform phylogenetic analyses of HIV and *E. coli* sequences, and forging pathways to increase community healthcare access.
+    text_link_url: /project/
+description: I have a diverse research background with experiences in I have pursued research in chemistry, biochemistry, scientific communication, biosecurity, agricultural nutrient cycling, disaster preparedness, cancer epidemiology, and infectious disease epidemiology. My research interests lie at the intersection of infectious disease epidemiology, epidemic preparedness, and community health. I am interested in utilizing data science, bioinformatics, spatial analyses, and advanced epidemiological methods to translate data into something useful for and actionable to public health. While at University of Washington, my research has involved implementing advanced biostatistical and epidemiological analyses, learning the whole genome sequencing pipeline to perform bioinformatic analyses of viral and bacterial sequences, and forging pathways to increase community healthcare access.
 layout: list-grid
 show_author_byline: false
 show_button_links: false
