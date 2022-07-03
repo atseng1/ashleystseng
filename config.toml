@@ -126,10 +126,6 @@ enableEmoji = true
     
   # Configure footer  
   [[menu.footer]]
-    name = "Contact"
-    title = ""
-    url = "/contact/"
-    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
