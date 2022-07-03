@@ -1,5 +1,6 @@
 ---
 title: "Academic & Professional Experience"
+subtitle:
 date: "2022-07-01"
 links:
 - icon: file
@@ -8,9 +9,11 @@ links:
   url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public.pdf
 show_author_byline: false
 show_button_links: false
-show_post_date: true
+show_post_date: false
 show_post_thumbnail: false
 ---
+
+<h5 class="f5">Last updated: July 1, 2022</h5>
 
 <h3 class="f3">Education</h3>
 
