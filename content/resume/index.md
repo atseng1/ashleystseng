@@ -133,7 +133,7 @@ Professor: Dr. Tiffany Sanchez, Department of Environmental Health Sciences
 
 **EcoHealth Alliance, New York, NY**    
 EcoHealthNet Research Exchange Intern      
-PI: Dr. Kevin Olival, Vice President for Research & Dr. Kendra Phelps, Senior Scientist 
+PI: Dr. Kevin Olival, Vice President for Research & Dr. Kendra Phelps, Senior Scientist   
 *May – August 2019*
 
 *	Worked specifically on the Western Asia Bat Research Network Project (WAB-Net) which is fully funded by the Cooperative Biological Engagement Program of the United States Department of Defense – Defense Threat Reduction Agency
@@ -173,7 +173,7 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 **Tseng, A.S.**, Sambai, B., Monroe-Wise, A., Mbogo, L.W., Ludwig-Barron, N.T., Masyuko, S.J., Chohan, B.H., Scott,. J.D., Sinkele, W., Herbeck, J.T., Farquhar, C., Guthrie, B.L. Assisted partner services for people who inject drugs: Index characteristics associated with untreated HIV in partners. *JAIDS Journal of Acquired Immune Deficiency Syndromes*. (Accepted June 2022).
 
-Hill, C.M., **Tseng, A.S.**, Holzhauer, K., Littman, A.J., Jones-Smith. J.C. Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA. *Public Health Nutrition*. 2022:1-9. doi:10.1017/S1368980022001240
+Hill, C.M., **Tseng, A.S.**, Holzhauer, K., Littman, A.J., Jones-Smith. J.C. Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA. *Public Health Nutrition*. 2022:1-9.  https://doi.org/10.1017/S1368980022001240
 
 Yeh, K.B., Tabynov, K., Parekh, F.K., Mombo, I., Parker, K., Tabynov, K., Bradrick, S.S., **Tseng, A.S.**, Yang, J.-R., Gardiner, L., Olinger, G., & Setser, B. (2021). Significance of High-Containment Biological Laboratories Performing Work During the COVID-19 Pandemic: Biosafety Level-3 and -4 Labs. *Frontiers in Bioengineering and Biotechnology*, 9. https://doi.org/10.3389/fbioe.2021.720315
 

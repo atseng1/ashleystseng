@@ -10,7 +10,7 @@ link_list:
 - name: Data Visualizations
   url: https://ashleytseng.shinyapps.io/csss569_assignment3/
 - name: Global Health Security
-  url: https://www.nti.org/atomic-pulse/next-gen-research-and-knowledge-sharing-hub-biosecurity/
+  url: https://www.ashleystseng.com/project/ghs
 - name: Bioinformatics
   url: https://www.ashleystseng.com/project/onehealth
 - name: Biostatistics
