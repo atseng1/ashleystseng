@@ -1,17 +1,17 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+date: "2022-07-01"
+description: Interested in chatting with me? Fill out the form on the right and I will get back to you shortly.
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: xdobvjvg
 layout: split-right
-name: Contact Us Form
+name: Contact Me Form
 show_poweredby_formspree: true
-show_social_links: true
+show_social_links: false
 submit_button_label: Send Message
-title: Contact
+title: Contact Me
 type: form
+action: "https://formspree.io/f/xdobvjvg"
+method: "POST"
 url: contact
 ---
 
