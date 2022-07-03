@@ -153,7 +153,7 @@ Supervisor: Dr. Thomas Chandler, Research Scientist
 
 
 
-**US Department of the Interior, Washington, DC**     
+**U.S. Department of the Interior, Washington, DC**     
 National Park Service, Office of Public Health, Disease Prevention and Response Epidemiology Branch
 Epidemiology Student Trainee     
 Supervisor: Dr. Maria Said, Epidemiology Branch Chief   
