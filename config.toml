@@ -1,4 +1,4 @@
-baseURL = "http://www.ashleystseng.com/"
+baseURL = "https://www.ashleystseng.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Ashley S. Tseng"
