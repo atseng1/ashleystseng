@@ -13,7 +13,7 @@ title: Cancer
 
 ![Georgetown Lombardi Comprehensive Cancer Center](georgetown.png)
 
-![Columbia Mailman School of Public Health](featured.png)
+![Columbia Mailman School of Public Health](columbia.png)
 
 ---
 
