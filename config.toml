@@ -111,7 +111,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = ""
-    url = "/project/"
+    url = "/research/"
     weight = 2
   [[menu.header]]
     name = "Résumé"
