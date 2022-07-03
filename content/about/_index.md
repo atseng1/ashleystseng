@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  Ashley S. Tseng is a PhD Student in Epidemiology at University of Washington
 show_header: true
 sidebar_left: false
 title: About
