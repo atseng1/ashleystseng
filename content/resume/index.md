@@ -6,20 +6,20 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_07-06-2022.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: false
 ---
 
-<h5 class="f5">Last updated: July 1, 2022</h5>
+<h5 class="f5">Last updated: July 6, 2022</h5>
 
 <h3 class="f3">Education</h3>
 
 **University of Washington School of Public Health, Seattle, WA**  
 Doctor of Philosophy (PhD) in Epidemiology  
-*Expected May 2025* 
+*Expected June 2025* 
 
 * *Predoctoral Fellow*, Biostatistics, Epidemiologic, and Bioinformatic Training in Environmental Health Training Grant, National Institute of Environmental Health Sciences, U.S. National Institutes of Health (June 2020-2022)
 * *Diversity Research Supplement Awardee*, Research Supplement to Promote Diversity in Health-Related Research, National Institute of Mental Health, U.S. National Institutes of Health (June 2022-2024)
