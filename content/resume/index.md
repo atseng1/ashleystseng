@@ -6,7 +6,7 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_07-06-2022.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_08-16-2022.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
@@ -171,9 +171,9 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 <h3 class="f3">Selected Publications</h3>   
 
-**Tseng, A.S.**, Sambai, B., Monroe-Wise, A., Mbogo, L.W., Ludwig-Barron, N.T., Masyuko, S.J., Chohan, B.H., Scott,. J.D., Sinkele, W., Herbeck, J.T., Farquhar, C., Guthrie, B.L. Assisted partner services for people who inject drugs: Index characteristics associated with untreated HIV in partners. *JAIDS Journal of Acquired Immune Deficiency Syndromes*. (Accepted June 2022).
+**Tseng, A.S.**, Sambai, B., Monroe-Wise, A., Mbogo, L.W., Ludwig-Barron, N.T., Masyuko, S.J., Chohan, B.H., Scott, J.D., Sinkele, W., Herbeck, J.T., Farquhar, C., & Guthrie, B.L. (2022). Assisted partner services for people who inject drugs: Index characteristics associated with untreated HIV in partners. *JAIDS Journal of Acquired Immune Deficiency Syndromes*, Publish Ah. https://doi.org/10.1097/QAI.0000000000003062
 
-Hill, C.M., **Tseng, A.S.**, Holzhauer, K., Littman, A.J., Jones-Smith. J.C. Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA. *Public Health Nutrition*. 2022:1-9.  https://doi.org/10.1017/S1368980022001240
+Hill, C.M., **Tseng, A.S.**, Holzhauer, K., Littman, A.J., & Jones-Smith, J.C. (2022). Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA. *Public Health Nutrition*, 1–9. https://doi.org/10.1017/S1368980022001240
 
 Yeh, K.B., Tabynov, K., Parekh, F.K., Mombo, I., Parker, K., Tabynov, K., Bradrick, S.S., **Tseng, A.S.**, Yang, J.-R., Gardiner, L., Olinger, G., & Setser, B. (2021). Significance of High-Containment Biological Laboratories Performing Work During the COVID-19 Pandemic: Biosafety Level-3 and -4 Labs. *Frontiers in Bioengineering and Biotechnology*, 9. https://doi.org/10.3389/fbioe.2021.720315
 
@@ -201,6 +201,11 @@ Mbogo, L.W., Sambai, B., Monroe-Wise, A., Ludwig-Barron, N.T., Guthrie, B.L., Bu
 
 <h3 class="f3">Recent Community Experience</h3>   
 
+**Volunteer**, Ballard Food Bank, August 2022 – Present    
+  
+*	I help prepare, cook, and serve food at Ballard Food Bank’s Kindness Café and pack food for home delivery
+
+
 **Volunteer**, University of Washington, Department of Epidemiology Curriculum Committee, September 2021    
   
 *	Served on Anti-Racism & Equity, Diversity and Inclusion Sub-committee of the Curriculum Committee
@@ -220,6 +225,7 @@ Mbogo, L.W., Sambai, B., Monroe-Wise, A., Ludwig-Barron, N.T., Guthrie, B.L., Bu
 
 *	Working with two US-based Taiwanese non-profit organizations, American Compassion Life Association and Global Compassion Life Foundation, to donate various PPE items to those in need over the past year
 *	Coordinated PPE donations to Rainier Valley Midwives in Seattle, NicaPhoto in Nicaragua, to the Maasai Association in Kenya, and to the Chelan-Douglas Health District in Central Washington
+* For the Fall 2022 Back-to-School Project, I coordinated, packed, and delivered 46 backpack and school supply donations to the Refugee Women’s Alliance afterschool Science, Technology, Engineering, Art and Math (STEAM) program in Seattle, Washington
 
 
 **Competition Proposal Judge**, Nuclear Threat Initiative-Next Generation Global Health Security Network’s Biosecurity in the Global Health Security Agenda (GHSA) Competition, 2018 – 2022
