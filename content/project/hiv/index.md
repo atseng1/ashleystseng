@@ -8,8 +8,8 @@ layout: single
 links:
 - icon: newspaper
   icon_pack: fas
-  name: First-Authored HIV Manuscript (Preprint)
-  url: https://www.medrxiv.org/content/10.1101/2021.10.18.21265173v1
+  name: First-Authored HIV Manuscript
+  url: https://doi.org/10.1097/QAI.0000000000003062
 subtitle: Increasing engagement in care for persons living with HIV
 tags:
 title: HIV/AIDS
