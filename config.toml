@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "University of Washington"
+  orgName = ""
   orgLocal = "Seattle, WA"
   description = ""
   favicon = "img/cloud.ico"
