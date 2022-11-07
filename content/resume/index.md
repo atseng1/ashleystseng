@@ -51,9 +51,9 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 <h3 class="f3">Non-Profit & Government Public Health Research Experience (June 2018-Present)</h3>   
 
-**EpiPointe LLC, Cary, NC**
-Epidemiologist (Consultant)
-PI: Dr. Falgunee Parekh
+**EpiPointe LLC, Cary, NC**   
+Epidemiologist (Consultant)   
+PI: Dr. Falgunee Parekh   
 *October 2022 – Present*
 
 *	Working in collaboration with Guru Angad Dev Veterinary and Animal Sciences University in Punjab, India to develop an innovative training network program focused on the under-represented workforce of Women Veterinary Health Professionals (WVHPs) and Women Farmers (WF) to enhance capacity to rapidly detect outbreaks of high consequence pathogens
