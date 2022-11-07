@@ -1,25 +1,25 @@
 ---
 title: "Academic & Professional Experience"
 subtitle:
-date: "2022-07-01"
+date: "2022-11-07"
 links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_08-16-2022.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_11-07-2022.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: false
 ---
 
-<h5 class="f5">Last updated: August 16, 2022</h5>
+<h5 class="f5">Last updated: November 7, 2022</h5>
 
 <h3 class="f3">Education</h3>
 
 **University of Washington School of Public Health, Seattle, WA**  
 Doctor of Philosophy (PhD) in Epidemiology  
-*Expected June 2025* 
+*Expected June 2024* 
 
 * *Predoctoral Fellow*, Biostatistics, Epidemiologic, and Bioinformatic Training in Environmental Health Training Grant, National Institute of Environmental Health Sciences, U.S. National Institutes of Health (June 2020-2022)
 * *Diversity Research Supplement Awardee*, Research Supplement to Promote Diversity in Health-Related Research, National Institute of Mental Health, U.S. National Institutes of Health (June 2022-2024)
@@ -43,13 +43,25 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 <h3 class="f3">Skills & Certifications</h3>   
 
-**Statistical, Spatial, and Bioinformatics Analysis:** ArcGIS, EpiInfo, Geneious Prime, GeoDa, QGIS, R, Python, Shell Scripting   
+**Statistical, Spatial, and Bioinformatics Analysis:** EpiInfo, R (advanced), SAS (basic), Stata (basic); ArcGIS, GeoDa, QGIS; Geneious Prime, Shell Scripting
 **Microsoft Office:** Excel, PowerPoint, Word   
 **Languages:** English (full fluency), Mandarin Chinese (moderate fluency)    
 **Certifications:** CITI Human Subjects Protection and HIPAA Patient Privacy   
 
 
 <h3 class="f3">Non-Profit & Government Public Health Research Experience (June 2018-Present)</h3>   
+
+**EpiPointe LLC, Cary, NC**
+Epidemiologist (Consultant)
+PI: Dr. Falgunee Parekh
+*October 2022 – Present*
+
+*	Working in collaboration with Guru Angad Dev Veterinary and Animal Sciences University in Punjab, India to develop an innovative training network program focused on the under-represented workforce of Women Veterinary Health Professionals (WVHPs) and Women Farmers (WF) to enhance capacity to rapidly detect outbreaks of high consequence pathogens
+*	Designing content for multi-day workshops in India to train WVHPs on One Health Epidemiology and laboratory biosafety and biosecurity topics
+*	Assisting in selection of WVHPs to implement pilot workshops for WFs in their districts
+*	Writing and disseminating monthly short trainings/communications after workshops to reinforce learning outcomes, promote recruitment, and ensure retention of WVHPs and WFs
+*	Developing and implementing pre- and post-engagement evaluation metrics of participants to measure capacity, knowledge, awareness, strengths, weaknesses, and likelihood of implementation success
+
 
 **International Clinical Research Center, Seattle, WA**   
 Research Assistant    
@@ -171,7 +183,7 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 <h3 class="f3">Selected Publications</h3>   
 
-**Tseng, A.S.**, Sambai, B., Monroe-Wise, A., Mbogo, L.W., Ludwig-Barron, N.T., Masyuko, S.J., Chohan, B.H., Scott, J.D., Sinkele, W., Herbeck, J.T., Farquhar, C., & Guthrie, B.L. (2022). Assisted partner services for people who inject drugs: Index characteristics associated with untreated HIV in partners. *JAIDS Journal of Acquired Immune Deficiency Syndromes*, Publish Ah. https://doi.org/10.1097/QAI.0000000000003062
+**Tseng, A.S.**, Sambai, B., Monroe-Wise, A., Mbogo, L.W., Ludwig-Barron, N.T., Masyuko, S.J., Chohan, B.H., Scott, J.D., Sinkele, W., Herbeck, J.T., Farquhar, C., & Guthrie, B.L. (2022). Assisted partner services for people who inject drugs: Index characteristics associated with untreated HIV in partners. *JAIDS Journal of Acquired Immune Deficiency Syndromes*, 91(3), 269–275. https://doi.org/10.1097/QAI.0000000000003062
 
 Hill, C.M., **Tseng, A.S.**, Holzhauer, K., Littman, A.J., & Jones-Smith, J.C. (2022). Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA. *Public Health Nutrition*, 1–9. https://doi.org/10.1017/S1368980022001240
 

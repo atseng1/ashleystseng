@@ -8,7 +8,7 @@ images:
 - img/headshot.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD Student in Epidemiology, University of Washington-Seattle
+subtitle: PhD Candidate in Epidemiology, University of Washington-Seattle
 text_align_left: true
 title: Ashley S. Tseng
 type: home
