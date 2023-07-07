@@ -6,7 +6,7 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_11-07-2022.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_07-07-2023.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
@@ -50,6 +50,16 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 
 <h3 class="f3">Non-Profit & Government Public Health Research Experience (June 2018-Present)</h3>   
+
+**Department of Environmental and Occupational Health Sciences, Seattle, WA**
+Research Assistant
+PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupational Health Sciences & the Center for Public Health Nutrition
+*December 2022 – Present*
+
+*	Conducting analyses for the fourth wave of data for the WAFOOD Survey (WAFOOD4) to monitor the economic impact of COVID-19 and related inflationary food price fluctuations on Washington State residents’ food security and needs
+*	Produced a preliminary report in February 2023 that directly informed the Washington State Department of Agriculture during the 2023 Washington State legislative session
+*	Primary tasks include cleaning and analyzing survey data, and preparing written and visual components of preliminary (February 2023) and final (June 2023) reports
+
 
 **EpiPointe LLC, Cary, NC**   
 Epidemiologist (Consultant)   
@@ -182,6 +192,11 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 
 <h3 class="f3">Selected Publications</h3>   
+Anguzu, G., Gupta, A.J., Ochom, E., **Tseng, A.S,**, Zhang, M., Barnabas, R.V., Flaxman, A.D., Katamba, A., Davis, J.L., Ross, J.M. Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB. (2023). *BMC Infectious Diseases*, 23(1), 388. https://doi.org/10.1186/s12879-023-08365-y
+
+Otten, J.J., Spiker, M.L., Dai, J., **Tseng, A.S.**, Buszkiewicz, J.H., Beese, S., Collier, S.M., Ismach, A. Food Security and Food Assistance in the Wake of COVID-19: A 4th Survey of Washington State Households [Internet]. Seattle: University of Washington School of Public Health Center for Public Health Nutrition; 2023 Feb [cited 2023 Apr 28]. Available from: https://nutr.uw.edu/cphn/wafood/brief-12.
+
+Doshi, S., Kingston, H., **Tseng, A.S.**, Chohan, B.H., Sambai, B., Guthrie, B.L., Monroe-Wise, A., Mbogo, L.W., Masyuko, S., Tram, K.H., Sinkele, W., Macharia, P., Bukusi, D., Herbeck, J.T., Farquhar, C. (2023) SARS-CoV-2 antibody prevalence, correlates, and access to harm reduction services among people who inject drugs living with and without HIV and their partners in Kenya. *Harm Reduction Journal*, 20(1), 21. https://doi.org/10.1186/s12954-023-00754-5
 
 **Tseng, A.S.**, Sambai, B., Monroe-Wise, A., Mbogo, L.W., Ludwig-Barron, N.T., Masyuko, S.J., Chohan, B.H., Scott, J.D., Sinkele, W., Herbeck, J.T., Farquhar, C., & Guthrie, B.L. (2022). Assisted partner services for people who inject drugs: Index characteristics associated with untreated HIV in partners. *JAIDS Journal of Acquired Immune Deficiency Syndromes*, 91(3), 269–275. https://doi.org/10.1097/QAI.0000000000003062
 
@@ -199,6 +214,8 @@ Mbogo, L.W., Sambai, B., Monroe-Wise, A., Ludwig-Barron, N.T., Guthrie, B.L., Bu
 
 <h3 class="f3">Awards</h3>   
 
+* **James A. McDermott, M.D. Global Health Endowed Fellowship 2023-24**, University of Washington School of Public Health, May 2023
+*	**Walter A. Remak Scholarship 2023-24**, University of Washington School of Public Health, May 2023
 *	**U.S. National Institutes of Health, National Institute of Mental Health, Research Supplement to Promote Diversity in Health-Related Research**, Diversity Research Supplement Award for Dissertation Research, University of Washington, June 2022-2024
 *	**Exceptional Student Award**, Washington State Public Health Association, October 2021
 *	**U.S. National Institutes of Health, National Institute of Environmental Health Sciences, National Research Service Award (NRSA- T32 Predoctoral Fellowship)**, Biostatistics, Epidemiologic, and Bioinformatic Training in Environmental Health (BEBTEH) Training Grant, University of Washington, June 2021-2022
@@ -212,6 +229,17 @@ Mbogo, L.W., Sambai, B., Monroe-Wise, A., Ludwig-Barron, N.T., Guthrie, B.L., Bu
 
 
 <h3 class="f3">Recent Community Experience</h3>   
+
+**Volunteer**, the 30th Annual Conference on Retroviruses and Opportunistic Infections (CROI), February 2023
+
+* Supported the Conference Secretariat and Scientific Program Committee through acting as a room monitor for symposia and themed discussions, assisting in the abstract poster room, and answering conference attendee questions
+
+
+**Volunteer**, University of Washington, Department of Epidemiology PhD Enrollment and Funding Task Force, September 2022 – Present
+
+*	The Department of Epidemiology convened a Task Force with faculty, staff, and PhD student members to address two interconnected aspects of the PhD program: 1) the recent successive years with substantially larger than anticipated enrollment; and 2) the expectation that admitted (and enrolled) PhD students must locate their own funding
+*	The Task Force’s mission is to investigate and deliberate on the multitude of issues that would be raised were the Department to change its PhD student funding model to be more in line with peer institutions, providing the Department with a recommendation for implementing a new PhD student funding model
+
 
 **Volunteer**, Ballard Food Bank, August 2022 – Present    
   
