@@ -11,7 +11,7 @@ links:
   icon_pack: fas
   name: Association between health care access and food insecurity among lower-income older adults with multiple chronic conditions in Washington State, USA
   url: https://doi.org/10.1017/S1368980022001240
-- icon: newspaper
+- icon: door-open
   icon_pack: fas
   name: WAFOOD Brief 12 – Food Security and Food Assistance in the Wake of COVID-19: A 4th Survey of Washington State Households
   url: https://nutr.uw.edu/cphn/wafood/brief-12
