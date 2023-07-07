@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2022-07-01"
+date: "2023-07-07"
 draft: false
 excerpt: Research on food security and food assistance in Washington State
 featured: true
