@@ -1,22 +1,23 @@
 ---
-author:
-categories:
-date: "2023-07-07"
+author: null
+categories: null
+date: 2023-07-07
 draft: false
 excerpt: Research on food security and food assistance in Washington State
 featured: true
 layout: single
 links:
-- icon: newspaper
-  icon_pack: fas
-  name: Association between health care access and food insecurity among lower-income older adults in WA
-  url: https://doi.org/10.1017/S1368980022001240
-- icon: door-open
-  icon_pack: fas
-  name: WAFOOD Brief 12
-  url: https://nutr.uw.edu/cphn/wafood/brief-12
-subtitle: "Research on food security and food assistance in Washington State"
-tags:
+  - icon: newspaper
+    icon_pack: fas
+    name: Association between health care access and food insecurity among
+      lower-income older adults in WA
+    url: https://doi.org/10.1017/S1368980022001240
+  - icon: door-open
+    icon_pack: fas
+    name: WAFOOD Brief 12
+    url: https://nutr.uw.edu/cphn/wafood/brief-12
+subtitle: Research on food security and food assistance in Washington State
+tags: null
 title: Food Security
 ---
 
