@@ -192,7 +192,8 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 
 <h3 class="f3">Selected Publications</h3>   
-Anguzu, G., Gupta, A.J., Ochom, E., **Tseng, A.S,**, Zhang, M., Barnabas, R.V., Flaxman, A.D., Katamba, A., Davis, J.L., Ross, J.M. Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB. (2023). *BMC Infectious Diseases*, 23(1), 388. https://doi.org/10.1186/s12879-023-08365-y
+
+Anguzu, G., Gupta, A.J., Ochom, E., **Tseng, A.S.**, Zhang, M., Barnabas, R.V., Flaxman, A.D., Katamba, A., Davis, J.L., Ross, J.M. Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB. (2023). *BMC Infectious Diseases*, 23(1), 388. https://doi.org/10.1186/s12879-023-08365-y
 
 Otten, J.J., Spiker, M.L., Dai, J., **Tseng, A.S.**, Buszkiewicz, J.H., Beese, S., Collier, S.M., Ismach, A. Food Security and Food Assistance in the Wake of COVID-19: A 4th Survey of Washington State Households [Internet]. Seattle: University of Washington School of Public Health Center for Public Health Nutrition; 2023 Feb [cited 2023 Apr 28]. Available from: https://nutr.uw.edu/cphn/wafood/brief-12.
 
