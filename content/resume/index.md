@@ -125,7 +125,6 @@ PI: Dr. Falgunee Parekh
 
 
 **Alliance for Pandemic Preparedness, University of Washington, Seattle, WA**       
-
 COVID-19 Literature Situation Report Research Assistant   
 PI: Drs. Jennifer Ross and Brandon Guthrie, Department of Global Health   
 *June 2020 – June 2021*
