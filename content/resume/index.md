@@ -51,8 +51,8 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 <h3 class="f3">Non-Profit & Government Public Health Research Experience (June 2018-Present)</h3>   
 
-**Department of Environmental and Occupational Health Sciences, Seattle, WA**
-Research Assistant
+**Department of Environmental and Occupational Health Sciences, Seattle, WA** 
+Research Assistant  
 PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupational Health Sciences & the Center for Public Health Nutrition  
 *December 2022 – Present*
 
@@ -62,7 +62,7 @@ PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupa
 
 
 **EpiPointe LLC, Cary, NC**   
-Epidemiologist (Consultant)   
+Epidemiologist (Remote)   
 PI: Dr. Falgunee Parekh   
 *October 2022 – Present*
 
@@ -85,7 +85,7 @@ PI: Dr. Jennifer Ross, Department of Global Health
 *	Co-authored a manuscript based on study findings
 
 
-**Chelan-Douglas Health District, Wenatchee, WA**   
+**Chelan-Douglas Health District, East Wenatchee, WA**   
 Epidemiologist (Deployed)   
 Supervisor: Dr. Luke Davies, Chelan-Douglas Health District Administrator   
 *August 2021 – September 2021*
@@ -124,7 +124,7 @@ PI: Dr. Falgunee Parekh
 *	Worked on a manuscript for scientific publication in conjunction with the team to describe the assessment and scoring methodology
 
 
-**Alliance for Pandemic Preparedness, University of Washington, Seattle, WA**     	
+**Alliance for Pandemic Preparedness, University of Washington, Seattle, WA** 
 COVID-19 Literature Situation Report Research Assistant   
 PI: Drs. Jennifer Ross and Brandon Guthrie, Department of Global Health   
 *June 2020 – June 2021*
