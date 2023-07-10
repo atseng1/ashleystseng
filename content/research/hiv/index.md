@@ -8,19 +8,19 @@ layout: single
 links:
 - icon: newspaper
   icon_pack: fas
-  name: Participation in methadone programs improves antiretroviral uptake and HIV viral suppression among people who inject drugs in Kenya
+  name: "Participation in methadone programs improves antiretroviral uptake and HIV viral suppression among people who inject drugs in Kenya"
   url: https://doi.org/10.1016/j.jsat.2021.108587
 - icon: newspaper
   icon_pack: fas
-  name: Assisted Partner Services for People Who Inject Drugs: Index Characteristics Associated With Untreated HIV in Partners
+  name: "Assisted Partner Services for People Who Inject Drugs: Index Characteristics Associated With Untreated HIV in Partners"
   url: https://doi.org/10.1097/QAI.0000000000003062
 - icon: newspaper
   icon_pack: fas
-  name: SARS-CoV-2 antibody prevalence, correlates, and access to harm reduction services among people who inject drugs living with and without HIV and their partners in Kenya
+  name: "SARS-CoV-2 antibody prevalence, correlates, and access to harm reduction services among people who inject drugs living with and without HIV and their partners in Kenya"
   url: https://doi.org/10.1186/s12954-023-00754-5
 - icon: newspaper
   icon_pack: fas
-  name: Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB
+  name: "Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB"
   url: https://doi.org/10.1186/s12879-023-08365-y
 subtitle: Increasing engagement in care for persons living with HIV
 tags:
