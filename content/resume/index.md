@@ -53,7 +53,7 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 **Department of Environmental and Occupational Health Sciences, Seattle, WA**
 Research Assistant
-PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupational Health Sciences & the Center for Public Health Nutrition
+PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupational Health Sciences & the Center for Public Health Nutrition  
 *December 2022 – Present*
 
 *	Conducting analyses for the fourth wave of data for the WAFOOD Survey (WAFOOD4) to monitor the economic impact of COVID-19 and related inflationary food price fluctuations on Washington State residents’ food security and needs
