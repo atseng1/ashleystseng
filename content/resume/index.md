@@ -6,14 +6,14 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_07-07-2023.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_08-04-2023.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: false
 ---
 
-<h5 class="f5">Last updated: July 7, 2023</h5>
+<h5 class="f5">Last updated: August 4, 2023</h5>
 
 <h3 class="f3">Education</h3>
 
@@ -191,7 +191,17 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 
 
-<h3 class="f3">Selected Publications</h3>   
+<h3 class="f3">Selected Publications</h3>
+
+Yeh, K.B., Powers, M.D., Patel, A., Parekh, F., **Tseng, A.S.**, Bradford, E., Parker, K., Soong, R., Olinger, G., & Mombo, I. (2023). Retrospective on molecular assay design for detecting pan-orthopox viruses and prospective on mpox laboratory preparedness and readiness. *Frontiers in Tropical Diseases*, 4. https://doi.org/10.3389/fitd.2023.1221804
+
+Ferris, J.S., Morgan, D.A., **Tseng, A.S.**, Terry, M.B., Ottman, R., Hur, C., Wright, J.D., & Genkinger, J.M. Risk Factors for Developing Both Primary Breast and Primary Ovarian Cancer: A Systematic Review. (2023). *Critical Reviews in Oncology/Hematology*, 104081. https://doi.org/10.1016/j.critrevonc.2023.104081
+
+Otten, J.J., Spiker, M.L., Dai, J., **Tseng, A.S.**, Buszkiewicz, J.H., Beese, S., Collier, S.M., Ismach, A. Washington State Food Security Surveys: Longitudinal findings across survey waves 1-4, 2020-2023 [Internet]. Seattle: University of Washington School of Public Health Center for Public Health Nutrition; 2023 June [cited 2023 Aug 4]. Available from: https://nutr.uw.edu/cphn/wafood/brief-15.
+
+Otten, J.J., Spiker, M.L., Dai, J., **Tseng, A.S.**, Buszkiewicz, J.H., Beese, S., Collier, S.M., Ismach, A. Washington State Food Security Surveys: Cross-sectional findings from survey waves 1-4, 2020-2023 [Internet]. Seattle: University of Washington School of Public Health Center for Public Health Nutrition; 2023 June [cited 2023 Aug 4]. Available from: https://nutr.uw.edu/cphn/wafood/brief-14.
+
+Otten, J.J., Spiker, M.L., Dai, J., **Tseng, A.S.**, Buszkiewicz, J.H., Beese, S., Collier, S.M., Ismach, A. Food Access and Economic Well-being: Additional findings from a 4th survey of Washington State households [Internet]. Seattle: University of Washington School of Public Health Center for Public Health Nutrition; 2023 June [cited 2023 Aug 4]. Available from: https://nutr.uw.edu/cphn/wafood/brief-13.
 
 Anguzu, G., Gupta, A.J., Ochom, E., **Tseng, A.S.**, Zhang, M., Barnabas, R.V., Flaxman, A.D., Katamba, A., Davis, J.L., Ross, J.M. Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB. (2023). *BMC Infectious Diseases*, 23(1), 388. https://doi.org/10.1186/s12879-023-08365-y
 

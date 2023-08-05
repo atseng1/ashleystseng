@@ -15,6 +15,18 @@ links:
   icon_pack: fas
   name: "WAFOOD Brief 12 – Food Security and Food Assistance in the Wake of COVID-19: A 4th Survey of Washington State Households"
   url: https://nutr.uw.edu/cphn/wafood/brief-12
+- icon: door-open
+  icon_pack: fas
+  name: "WAFOOD Brief 13 – Food Access and Economic Well-being: Additional findings from a 4th survey of Washington State households"
+  url: https://nutr.uw.edu/cphn/wafood/brief-13
+- icon: door-open
+  icon_pack: fas
+  name: "WAFOOD Brief 14 – Washington State Food Security Surveys: Cross-sectional findings from survey waves 1-4, 2020-2023"
+  url: https://nutr.uw.edu/cphn/wafood/brief-14
+- icon: door-open
+  icon_pack: fas
+  name: "WAFOOD Brief 15 – Washington State Food Security Surveys: Longitudinal findings across survey waves 1-4, 2020-2023"
+  url: https://nutr.uw.edu/cphn/wafood/brief-15
 subtitle: "Research on food security and food assistance in Washington State"
 tags:
 title: Food Security

@@ -14,6 +14,18 @@ links:
   icon_pack: fas
   name: Data Visualization Example - Livestock Trade & Potential Zoonotic Disease Risk
   url: https://ashleytseng.shinyapps.io/csss569_assignment3/
+- icon: newspaper
+  icon_pack: fas
+  name: "Achieving Health Security and Threat Reduction through Sharing Sequence Data"
+  url: https://doi.org/10.3390/tropicalmed4020078
+- icon: newspaper
+  icon_pack: fas
+  name: "Significance of High-Containment Biological Laboratories Performing Work During the COVID-19 Pandemic: Biosafety Level-3 and -4 Labs"
+  url: https://doi.org/10.3389/fbioe.2021.720315
+- icon: newspaper
+  icon_pack: fas
+  name: "Retrospective on molecular assay design for detecting pan-orthopox viruses and prospective on mpox laboratory preparedness and readiness"
+  url: https://doi.org/10.3389/fitd.2023.1221804
 subtitle: Promoting global health security, research collaborations, and data-sharing
 tags:
 title: Global Health Security
