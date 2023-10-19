@@ -22,6 +22,10 @@ links:
   icon_pack: fas
   name: "Frequency of HIV serodifferent couples within TB-affected households in a setting with a high burden of HIV-associated TB"
   url: https://doi.org/10.1186/s12879-023-08365-y
+- icon: person-chalkboard
+  icon_pack: fas
+  name: "ISPOR Europe 2023 Conference Poster: Comparing the environmental costs of differentiated service delivery of ART for people living with HIV in rural South Africa"
+  url: https://github.com/atseng1/ashleystseng/blob/main/content/project/hiv/ISPOR%20Europe%202023%20Abstract_Supplement_Tseng%20et%20al.pdf
 subtitle: Increasing engagement in care for persons living with HIV
 tags:
 title: HIV/AIDS
