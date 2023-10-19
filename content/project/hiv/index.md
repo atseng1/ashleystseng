@@ -25,7 +25,7 @@ links:
 - icon: paperclip
   icon_pack: fas
   name: "ISPOR Europe 2023 Conference Poster: Comparing the environmental costs of differentiated service delivery of ART for people living with HIV in rural South Africa"
-  url: https://github.com/atseng1/ashleystseng/blob/main/content/project/hiv/ISPOR%20Europe%202023%20Abstract_Supplement_Tseng%20et%20al.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/project/hiv/ISPOR%20Europe%202023%20Abstract_Supplement_Tseng%20et%20al.pdf
 subtitle: Increasing engagement in care for persons living with HIV
 tags:
 title: HIV/AIDS
