@@ -6,7 +6,7 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_08-04-2023.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_10-30-2023.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
@@ -54,11 +54,11 @@ Bachelor of Science in Physical (Health) Geography, Economics
 **Department of Environmental and Occupational Health Sciences, Seattle, WA** 
 Research Assistant  
 PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupational Health Sciences & the Center for Public Health Nutrition  
-*December 2022 – Present*
+*December 2022 – September 2023*
 
-*	Conducting analyses for the fourth wave of data for the WAFOOD Survey (WAFOOD4) to monitor the economic impact of COVID-19 and related inflationary food price fluctuations on Washington State residents’ food security and needs
-*	Produced a preliminary report in February 2023 that directly informed the Washington State Department of Agriculture during the 2023 Washington State legislative session
-*	Primary tasks include cleaning and analyzing survey data, and preparing written and visual components of preliminary (February 2023) and final (June 2023) reports
+* Conducted data analyses for the WAFOOD Survey to monitor the economic impact of COVID-19 and related inflationary food price fluctuations on Washington State residents’ food security and needs
+* Produced a report that directly informed the Washington State Department of Agriculture during the Washington State legislative session in early 2023
+* Primary tasks included cleaning and analyzing WAFOOD survey data, preparing written and visual components of preliminary (February 2023) WAFOOD wave 4 and final (June 2023) longitudinal and cross-sectional reports, harmonizing data across four WAFOOD survey waves, and conducting statistical analyses for and co-authoring a manuscript for submission to a peer-reviewed journal
 
 
 **EpiPointe LLC, Cary, NC**   
@@ -192,10 +192,13 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 
 <h3 class="f3">Selected Publications</h3>
+**Tseng A.S.**, Roberts M.C., Weissman S.J., Rabinowitz P.M. Study of heavy metal resistance genes in Escherichia coli isolates from a marine ecosystem with a history of environmental pollution (arsenic, cadmium, copper, and mercury). PLOS ONE. Forthcoming 2023.
 
-Yeh, K.B., Powers, M.D., Patel, A., Parekh, F., **Tseng, A.S.**, Bradford, E., Parker, K., Soong, R., Olinger, G., & Mombo, I. (2023). Retrospective on molecular assay design for detecting pan-orthopox viruses and prospective on mpox laboratory preparedness and readiness. *Frontiers in Tropical Diseases*, 4. https://doi.org/10.3389/fitd.2023.1221804
+Parekh F.K., Mui W.L., **Tseng A.S.**, Toro J., Craig T., Ndugga M., Schmidt A.C., Dagnew A.F., Penz C., Belai G. Data-driven epidemiologic approach to conducting site feasibility for a global phase III tuberculosis vaccine clinical trial. PLOS Glob Public Health. Forthcoming 2023 Nov 8.
 
 Ferris, J.S., Morgan, D.A., **Tseng, A.S.**, Terry, M.B., Ottman, R., Hur, C., Wright, J.D., & Genkinger, J.M. Risk Factors for Developing Both Primary Breast and Primary Ovarian Cancer: A Systematic Review. (2023). *Critical Reviews in Oncology/Hematology*, 104081. https://doi.org/10.1016/j.critrevonc.2023.104081
+
+Yeh, K.B., Powers, M.D., Patel, A., Parekh, F., **Tseng, A.S.**, Bradford, E., Parker, K., Soong, R., Olinger, G., & Mombo, I. (2023). Retrospective on molecular assay design for detecting pan-orthopox viruses and prospective on mpox laboratory preparedness and readiness. *Frontiers in Tropical Diseases*, 4. https://doi.org/10.3389/fitd.2023.1221804
 
 Otten, J.J., Spiker, M.L., Dai, J., **Tseng, A.S.**, Buszkiewicz, J.H., Beese, S., Collier, S.M., Ismach, A. Washington State Food Security Surveys: Longitudinal findings across survey waves 1-4, 2020-2023 [Internet]. Seattle: University of Washington School of Public Health Center for Public Health Nutrition; 2023 June [cited 2023 Aug 4]. Available from: https://nutr.uw.edu/cphn/wafood/brief-15.
 
