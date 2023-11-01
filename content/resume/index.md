@@ -6,14 +6,14 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_10-30-2023.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_10-31-2023.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: false
 ---
 
-<h5 class="f5">Last updated: October 30, 2023</h5>
+<h5 class="f5">Last updated: October 31, 2023</h5>
 
 <h3 class="f3">Education</h3>
 
@@ -192,6 +192,7 @@ Supervisor: Dr. Maria Said, Epidemiology Branch Chief
 
 
 <h3 class="f3">Selected Publications</h3>
+
 **Tseng A.S.**, Roberts M.C., Weissman S.J., Rabinowitz P.M. Study of heavy metal resistance genes in Escherichia coli isolates from a marine ecosystem with a history of environmental pollution (arsenic, cadmium, copper, and mercury). PLOS ONE. Forthcoming 2023.
 
 Parekh F.K., Mui W.L., **Tseng A.S.**, Toro J., Craig T., Ndugga M., Schmidt A.C., Dagnew A.F., Penz C., Belai G. Data-driven epidemiologic approach to conducting site feasibility for a global phase III tuberculosis vaccine clinical trial. PLOS Glob Public Health. Forthcoming 2023 Nov 8.
@@ -228,6 +229,8 @@ Mbogo, L.W., Sambai, B., Monroe-Wise, A., Ludwig-Barron, N.T., Guthrie, B.L., Bu
 
 <h3 class="f3">Awards</h3>   
 
+* **Graduate Student Conference Presentation Award**, The Graduate School, University of Washington, October 2023
+* **Travel Award**, Department of Epidemiology, University of Washington, September 2023
 * **James A. McDermott, M.D. Global Health Endowed Fellowship 2023-24**, University of Washington School of Public Health, May 2023
 *	**Walter A. Remak Scholarship 2023-24**, University of Washington School of Public Health, May 2023
 *	**U.S. National Institutes of Health, National Institute of Mental Health, Research Supplement to Promote Diversity in Health-Related Research**, Diversity Research Supplement Award for Dissertation Research, University of Washington, June 2022-2024
