@@ -13,7 +13,7 @@ show_post_date: false
 show_post_thumbnail: false
 ---
 
-<h5 class="f5">Last updated: October 31, 2023</h5>
+<h5 class="f5">Last updated: November 7, 2023</h5>
 
 <h3 class="f3">Education</h3>
 
