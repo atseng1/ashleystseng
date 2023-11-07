@@ -6,7 +6,7 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_10-31-2023.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_11-07-2023.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
