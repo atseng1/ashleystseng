@@ -6,11 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-    I am currently a PhD Candidate in the Department of Epidemiology at the University of Washington-Seattle. I graduated with a Master of Public Health (MPH) in Epidemiology and Applied Biostatistics from Columbia University and with a Bachelor of Science (BSc) in Health Geography and Economics from McGill University.   
-    
-      I have substantial experience in both chronic and infectious disease epidemiology including research on cancer, nutrition/food security, zoonotic diseases, HIV, and tuberculosis, and public health deployments at the Washington State Department of Health and the Chelan-Douglas Health District in Central Washington during the COVID-19 pandemic. Between 2020-2022, I was a Predoctoral Fellow on the Biostatistics, Epidemiologic, And Bioinformatic Training in Environmental Health Ruth L. Kirschstein National Research Service Award through the U.S. National Institutes of Health-National Institute of Environmental Health Sciences (NIH T32ES015459). In 2022, I was awarded a Diversity Supplement from the U.S. National Institutes of Health-National Institute of Mental Health to fund my PhD Dissertation work (NIH R01MH124465-02S1). 
-      
-      My research objectives include leveraging my rigorous epidemiological, biostatistics, and environmental health training to reduce the burden of disease across diverse populations and to increase access to resources in an equitable way, in both US-based and global settings. Post-graduation, I seek to work on applying advanced analytic methods and technology in novel ways to improve community access to resources (e.g., health care, medication, food, and other basic needs).
+    I am currently an Epidemic Intelligence Service (EIS) Officer at the Centers for Disease Control and Prevention assigned to the Hawai'i State Department of Health, and a Scientist Officer in the U.S. Public Health Service Commissioned Corps.
+
+    My prior training includes a PhD in Epidemiology from the University of Washington, a MPH in Epidemiology and Applied Biostatistics from Columbia University, and a BSc in Health Geography and Economics from McGill University. As a naturally curious individual, I have worked in various capacities on a wide spectrum of research topics: chemistry, biochemistry, scientific communication, global health security, agricultural nutrient cycling, food insecurity, disaster preparedness, cancer epidemiology, and infectious disease epidemiology. 
+
+     Through my work, I aim to leverage my rigorous epidemiological, biostatistics, and environmental health training to reduce the burden of disease across diverse populations and to increase community access to resources (e.g., health care, medication, food, and other basic needs) in an equitable way.
       
 show_outro: false
 ---

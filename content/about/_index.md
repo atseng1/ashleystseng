@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Ashley S. Tseng is a PhD Candidate in Epidemiology at University of Washington
+  Ashley S. Tseng is CDC Epidemic Intelligence Service Officer at the Hawai'i State Department of Health
 show_header: true
 sidebar_left: false
 title: About

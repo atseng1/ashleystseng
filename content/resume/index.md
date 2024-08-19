@@ -6,21 +6,22 @@ links:
 - icon: file
   icon_pack: fas
   name: Download full CV here
-  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_11-07-2023.pdf
+  url: https://github.com/atseng1/ashleystseng/raw/main/content/resume/Ashley-Tseng_CV_public_08-14-2024.pdf
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: false
 ---
 
-<h5 class="f5">Last updated: November 7, 2023</h5>
-
+<h5 class="f5">Last updated: August 18, 2024</h5>
+s
 <h3 class="f3">Education</h3>
 
 **University of Washington School of Public Health, Seattle, WA**  
 Doctor of Philosophy (PhD) in Epidemiology  
-*Expected June 2024* 
+*June 2024* 
 
+* Doctoral Dissertation: “State-of-the-ART Care: Revolutionizing Medication Delivery in Rural Settings with a Person-Centered Care Approach”
 * *Predoctoral Fellow*, Biostatistics, Epidemiologic, and Bioinformatic Training in Environmental Health Training Grant, National Institute of Environmental Health Sciences, U.S. National Institutes of Health (June 2020-2022)
 * *Diversity Research Supplement Awardee*, Research Supplement to Promote Diversity in Health-Related Research, National Institute of Mental Health, U.S. National Institutes of Health (June 2022-2024)
 
@@ -50,6 +51,22 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 
 <h3 class="f3">Non-Profit & Government Public Health Research Experience (June 2018-Present)</h3>   
+
+**Centers for Disease Control and Prevention, Atlanta, GA**
+Epidemic Intelligence Service (EIS) Officer
+*July 2024 – Present*
+
+* Assigned to the Disease Outbreak Control Division, Hawaii State Department of Health, Honolulu, HI
+* EIS officers serve at the forefront of public health, protecting Americans and the global community, while training under the guidance of seasoned mentors during a two-year fellowship
+* When disease outbreaks or other public health threats emerge, EIS officers investigate, identify the cause, rapidly implement control measures, and collect evidence to recommend preventive actions
+
+
+**Commissioned Corps of the United States Public Health Service (USPHS)** 
+Lieutenant, Scientist Officer
+*June 2024 – Present*
+* USPHS Commissioned Corps scientists conduct biomedical, clinical, behavioral, and epidemiological research, enforce drug and medical device regulations, and manage national and international research programs
+* USPHS scientists strive to bring the most current science into play to address public health challenges and promote and improve the health of the Nation
+
 
 **Department of Environmental and Occupational Health Sciences, Seattle, WA** 
 Research Assistant  
