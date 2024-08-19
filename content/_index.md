@@ -8,7 +8,7 @@ images:
 - img/headshot.jpg
 show_action_link: true
 show_social_links: true
-subtitle: CDC Epidemic Intelligence Service Officer, Hawai`i State Department of Health
+subtitle: CDC Epidemic Intelligence Service Officer, Hawaii State Department of Health
 text_align_left: true
 title: LT Ashley S. Tseng, PhD, MPH
 type: home
