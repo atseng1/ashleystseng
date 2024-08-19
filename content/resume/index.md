@@ -14,7 +14,7 @@ show_post_thumbnail: false
 ---
 
 <h5 class="f5">Last updated: August 18, 2024</h5>
-s
+
 <h3 class="f3">Education</h3>
 
 **University of Washington School of Public Health, Seattle, WA**  
@@ -52,8 +52,8 @@ Bachelor of Science in Physical (Health) Geography, Economics
 
 <h3 class="f3">Non-Profit & Government Public Health Research Experience (June 2018-Present)</h3>   
 
-**Centers for Disease Control and Prevention, Atlanta, GA**
-Epidemic Intelligence Service (EIS) Officer
+**Centers for Disease Control and Prevention, Atlanta, GA**   
+Epidemic Intelligence Service (EIS) Officer   
 *July 2024 – Present*
 
 * Assigned to the Disease Outbreak Control Division, Hawaii State Department of Health, Honolulu, HI
@@ -61,14 +61,14 @@ Epidemic Intelligence Service (EIS) Officer
 * When disease outbreaks or other public health threats emerge, EIS officers investigate, identify the cause, rapidly implement control measures, and collect evidence to recommend preventive actions
 
 
-**Commissioned Corps of the United States Public Health Service (USPHS)** 
-Lieutenant, Scientist Officer
+**Commissioned Corps of the United States Public Health Service (USPHS)**   
+Lieutenant, Scientist Officer   
 *June 2024 – Present*
 * USPHS Commissioned Corps scientists conduct biomedical, clinical, behavioral, and epidemiological research, enforce drug and medical device regulations, and manage national and international research programs
 * USPHS scientists strive to bring the most current science into play to address public health challenges and promote and improve the health of the Nation
 
 
-**Department of Environmental and Occupational Health Sciences, Seattle, WA** 
+**Department of Environmental and Occupational Health Sciences, Seattle, WA**   
 Research Assistant  
 PI: Drs. Jennifer Otten and Marie Spiker, Department of Environmental and Occupational Health Sciences & the Center for Public Health Nutrition  
 *December 2022 – September 2023*

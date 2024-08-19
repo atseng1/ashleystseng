@@ -17,7 +17,7 @@ links:
   url: https://github.com/atseng1/hmrg
 - icon: newspaper
   icon_pack: fas
-  name: "Study of heavy metal resistance genes in *Escherichia coli* isolates from a marine ecosystem with a history of environmental pollution (arsenic, cadmium, copper, and mercury)"
+  name: "Study of heavy metal resistance genes in Escherichia coli isolates from a marine ecosystem with a history of environmental pollution (arsenic, cadmium, copper, and mercury)"
   url: https://doi.org/10.1371/journal.pone.0294565
 subtitle: "Research at the nexus of human, animal, and environmental health"
 tags:
